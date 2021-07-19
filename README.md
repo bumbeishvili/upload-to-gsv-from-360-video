@@ -19,6 +19,6 @@ ffmpeg -i <input file path> -filter:v fps=30 <output file path>
 ````
 For example
 ```
-ffmpeg -i input.mp4 -filter:v fps=30 output.mp4
+ffmpeg -i vid.mp4 -filter:v fps=3 output.mp4
 ```
 
