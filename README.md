@@ -1,1 +1,15 @@
-# upload-to-gsv-from-video
+
+
+## Step 1. Record with GPS
+
+Record 360 video with GPS turned on
+
+
+## Step 2. Stitch
+
+Stitch video with insta360 studio, output h265, bit rate 135 or more
+
+## Step 3. Reencode
+
+Reencode video with ffmpeg in order to have a 5fps video (may be 7 fps if you record video with a car)
+
