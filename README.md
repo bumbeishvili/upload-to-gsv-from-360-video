@@ -1,6 +1,6 @@
 
 
-## Step 1. Record with GPS
+## Step 1. Record
 
 Record 360 video with GPS turned on
 
