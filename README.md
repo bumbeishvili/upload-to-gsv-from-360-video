@@ -22,3 +22,9 @@ For example
 ffmpeg -i vid.mp4 -filter:v fps=3 output.mp4
 ```
 
+
+## Step 4. Create GPX Files using insv2gpx
+
+## Step 5. Use ul2gsv to authenticate on google
+
+## Step 6. Drop gpx and video files to video2gsv
