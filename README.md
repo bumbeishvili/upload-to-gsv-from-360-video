@@ -1,4 +1,10 @@
 
+# Labpano - errored video gpx extract sample
+
+`exiftool -p "gpx.fmt" -ee "230529_120659815.mp4" > "230529_120659815.gpx" -api largefilesupport=1`
+
+
+# Insta 360 street view upload
 
 ## Step 1. Record
 
